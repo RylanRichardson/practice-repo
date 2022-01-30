@@ -1,27 +1,27 @@
-## First Name Last Name
+## Rylan Richardson
 
-### Term Year 
+### 2022 
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course 1
+- Introduction to Data Science
 
-- Course 2
+- Precalculus Algebra
 
-- Course 3
+- Computer Information Technology
 
-- Course 4
+- Concepts and Methods for Engineering
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- Money
 
-- Thing 2
+- Sex
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- Computer Science
 
 ***
 
-> Last modified: YYYY/MM/DD
+> Last modified: 2022/01/29
